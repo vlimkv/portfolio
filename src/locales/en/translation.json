@@ -1,0 +1,48 @@
+{
+  "header": {
+    "home": "Home",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, my name is",
+    "name": "Alimkhan Slambek.",
+    "title": "I build things for the web.",
+    "subtitle": "I'm a Fullstack Developer who turns ideas into production-ready products, focusing on scalability, quality, and intuitive user interfaces."
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "details_cta": "View Details →"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Open to new projects and interesting opportunities.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success_title": "Thank You!",
+      "success_message": "Your message has been sent. I will get back to you soon."
+    }
+  },
+  "footer": {
+    "copyright": "Designed & Developed by Alimkhan Slambek"
+  },
+  "project_pages": {
+    "back_link": "Back to all projects",
+    "tech_title": "Technologies",
+    "savoa": {
+        "title": "Co-Founder & Fullstack Developer @ savoa.kz",
+        "description": "Developed a production-ready event platform from scratch in 2 months.",
+        "full_description": "Savoa.kz is a complete platform for organizing and hosting events. The project was developed from the ground up and launched to production in 2 months with heavy use of AI tools to accelerate development.",
+        "techStack": ["Next.js", "React", "Node.js", "JavaScript", "Supabase (PostgreSQL)", "Tailwind CSS"]
+    },
+    "freelance": {
+        "title": "Freelance Full Stack Engineer",
+        "description": "Built performant websites and dashboards focusing on clean UI/UX.",
+        "full_description": "As a freelancer, I was engaged in the development of custom websites and dashboards for various clients. The main focus was on performance, clean code, and quality UI/UX.",
+        "techStack": ["React", "TypeScript", "SCSS", "Node.js", "Python", "LLM"]
+    }
+  }
+}

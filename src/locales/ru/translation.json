@@ -1,0 +1,48 @@
+{
+  "header": {
+    "home": "Главная",
+    "contact": "Контакты"
+  },
+  "hero": {
+    "greeting": "Привет, меня зовут",
+    "name": "Алимхан Сламбек.",
+    "title": "Я создаю вещи для интернета.",
+    "subtitle": "Я — Fullstack-разработчик, который превращает идеи в production-ready продукты. Мой фокус — на масштабируемости, качестве и создании интуитивно понятных интерфейсов."
+  },
+  "projects": {
+    "title": "Избранные проекты",
+    "details_cta": "Подробнее →"
+  },
+  "contact": {
+    "title": "Связаться со мной",
+    "subtitle": "Открыт для новых проектов и интересных предложений.",
+    "form": {
+      "name": "Ваше имя",
+      "email": "Email",
+      "message": "Сообщение",
+      "submit": "Отправить",
+      "submitting": "Отправка...",
+      "success_title": "Спасибо!",
+      "success_message": "Ваше сообщение отправлено. Я скоро с вами свяжусь."
+    }
+  },
+  "footer": {
+    "copyright": "Спроектировано и разработано Алимханом Сламбеком"
+  },
+  "project_pages": {
+    "back_link": "Назад ко всем проектам",
+    "tech_title": "Технологии",
+    "savoa": {
+        "title": "Co-Founder & Fullstack Developer @ savoa.kz",
+        "description": "Разработал production-ready платформу для мероприятий, включая сайт, админ-панель, QR-систему и интеграцию платежей.",
+        "full_description": "Savoa.kz — это полноценная платформа для организации и проведения мероприятий. Проект был разработан с нуля и запущен в продакшен за 2 месяца с интенсивным использованием AI-инструментов для ускорения разработки.",
+        "techStack": ["Next.js", "React", "Node.js", "JavaScript", "Supabase (PostgreSQL)", "Tailwind CSS"]
+    },
+    "freelance": {
+        "title": "Freelance Full Stack Engineer",
+        "description": "Built performant websites and dashboards focusing on clean UI/UX.",
+        "full_description": "As a freelancer, I was engaged in the development of custom websites and dashboards for various clients. The main focus was on performance, clean code, and quality UI/UX.",
+        "techStack": ["React", "TypeScript", "SCSS", "Node.js", "Python", "LLM"]
+    }
+  }
+}
